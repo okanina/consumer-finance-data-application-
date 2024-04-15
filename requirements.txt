@@ -3,3 +3,4 @@ plotly
 dash
 scipy
 scikit-learn
+gunicorn==19.7.1
