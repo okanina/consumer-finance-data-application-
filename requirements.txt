@@ -1,5 +1,5 @@
 pandas==2.2.2
-plotly==
+plotly
 dash
 scipy
 scikit-learn
