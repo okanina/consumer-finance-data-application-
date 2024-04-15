@@ -23,6 +23,7 @@ def wrangle(filepath):
 df=wrangle("data/SCFP2022.csv")
 
 app=Dash(__name__)
+server=app.server
 
 app.layout=html.Div([
     
